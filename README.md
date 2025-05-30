@@ -16,19 +16,19 @@ I'm a student developer looking to build a career in data engineering. I enjoy b
 ## Technical Skills
 
 **Languages**  
-Python · Java· SQL
+Python · Java · SQL
 
-**Data & Infra**  
-MySQL · PostgreSQL · Supabase · Pandas · PySpark · Hadoop · Streamlit · Airflow (learning)
+**Data & Infrastructure**  
+MySQL · MongoDB · Pandas · PySpark (learning)
 
-**Software & Tools**  
-Git · Linux · Notion API
+**Tools & Platforms**  
+Git · Streamlit · Vercel · Supabase (PostgreSQL)
 
-**Embedded & Systems**  
-ESP32 · Embedded development · Sensor integration · Serial communication
+**Embedded Systems**  
+ESP32 · Sensor integration · Serial communication
 
 **Basic Familiarity**  
-C · C++ · Zsh
+C · C++ · Zsh · Bash
 
 ---
 
