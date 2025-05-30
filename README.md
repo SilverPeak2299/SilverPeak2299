@@ -64,7 +64,7 @@ The system is designed and deployed entirely within free-tier constraints, empha
 ## My Contact
 
 - GitHub: [SilverPeak2299](https://github.com/SilverPeak2299)
-- Email: [dannydickerson03@gmail.com] (dannydickerson03@gmail.com)
+- Email: [dannydickerson03@gmail.com](dannydickerson03@gmail.com)
 ---
 
 > I use GitHub not just to publish polished work, but to learn in public — whether it's experimenting with hardware, deploying apps, or analyzing data flows. I'm particularly excited about building tools that make complex systems usable, insightful, and efficient.
