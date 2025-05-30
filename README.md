@@ -1,4 +1,4 @@
-# Hi, I'm SilverPeak2299
+# Hi, I'm Daniel Dickerson
 
 I'm a student developer looking to build a career in data engineering. I enjoy building cool projects and end-to-end solutions — from automating workflows with CLI tools to deploying real-time data processing systems and intelligent web apps. My projects often sit at the intersection of software engineering, data science, and on ocasion hardware.
 
@@ -45,14 +45,14 @@ A data processing and analysis pipeline focused on customer purchase trends. Uti
 
 ---
 
-## My Favourite Current Coursework
+## My Favourite Coursework
 
 ### Big Data  
 Working with distributed datasets using MongoDB, implementing MapReduce workflows, and optimizing queries with indexing and multi-parameter sorting for efficient data retrieval and processing.
 
 ### AI for Text and Vision  
 Implementing contrastive loss in Siamese networks and exploring Transformer models for classification tasks using PyTorch.  
-The course also includes designing and training custom convolutional neural networks (CNNs) for image classification (e.g., recognizing rock, paper, or scissors) and applying text preprocessing techniques such as TF-IDF for natural language tasks.
+The course also includes designing and training custom convolutional neural networks (CNNs) for image classification (recognizing rock, paper, or scissors) and applying text preprocessing techniques such as TF-IDF for natural language tasks.
 
 ### Software Engineering (PACE Project)  
 Collaborating on a web-based internal search platform using React, Supabase, and Vercel. The project aims to reduce the volume of unnecessary email requests to MQI staff by creating a user-friendly, Google-like interface that encourages self-service.  
