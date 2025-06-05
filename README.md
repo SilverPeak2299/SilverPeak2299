@@ -28,20 +28,20 @@ Git · Streamlit · Vercel · Supabase (PostgreSQL)
 ESP32 · Sensor integration · Serial communication
 
 **Basic Familiarity**  
-C · C++ · Zsh · Bash
+C · C++
 
 ---
 
 ## Selected Projects
 
 ### Smart Commit CLI  
-A command-line tool that summarizes `git diff`s using the Gemini API and generates commit messages. Designed with persistent config support and flexible prompts for developer workflows.
+A command-line tool that summarizes `git diff`s using the Gemini API and generates commit messages. Designed for flexible intergration with developer workflows.
 
-### Pose Detection App  
+### Fencing Video Analysis Web App  
 Streamlit-based visualizer for pose tracking in fencing videos. Uses keypoint detection to plot joint trajectories over time — useful for performance analysis and motion segmentation.
 
 ### Foam Booth Data Analysis  
-A data processing and analysis pipeline focused on customer purchase trends. Utilizes large language models (LLMs) to automatically tag and categorize transactional data, enhancing insights extraction. Built using Pandas and Matplotlib to identify sales patterns and customer segments.
+A data processing and analysis pipeline focused on customer purchase trends. Utilizes large language models (LLMs) to automatically tag and categorize transactional data, enhancing insights extraction. Built using Pandas and Gemini to identify sales patterns and customer segments.
 
 ---
 
