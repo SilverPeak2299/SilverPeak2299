@@ -1,70 +1,99 @@
 # Hi, I'm Daniel Dickerson
 
-I'm a student developer looking to build a career in data engineering. I enjoy building cool projects and end-to-end solutions — from automating workflows with CLI tools to deploying real-time data processing systems and intelligent web apps. My projects often sit at the intersection of software engineering, data science, and on ocasion hardware.
+Data engineering student building production-style data systems with a focus on correctness, traceability, and governance.
+
+I work on end-to-end pipelines, data quality enforcement, and developer tooling — from Terraform-managed AWS environments to CI-integrated validation and CLI automation.
 
 ---
 
-## Interests & Strengths
+## Focus Areas
 
-- **Data Engineering** – ETL pipelines, data modeling, distributed systems, and transforming raw data into usable insights
-- **AI & Neural Networks** – Building and training models for classification, contrastive learning, and pose analysis using PyTorch
-- **Command-Line & Automation Tools** – Creating developer-first CLI apps to automate workflows and streamline processes
-- **Systems Integration** – Bridging embedded devices, data pipelines, and backend systems in cohesive, purpose-driven projects
-- **Project-Driven Learning** – I learn best by building tools that solve real-world problems from the ground up
+- **Data Engineering**  
+  ETL/ELT pipelines, data modeling, and distributed processing
+
+- **Data Quality & Governance**  
+  Designing validation frameworks and pushing checks into CI/CD to prevent bad data reaching downstream systems
+
+- **Cloud & Infrastructure**  
+  AWS (S3, Glue, Athena), Terraform, environment isolation, and pipeline testing
+
+- **Developer Tooling**  
+  CLI tools and workflow automation to improve developer experience and reliability
+
+- **Applied ML**  
+  PyTorch models and practical LLM usage in data workflows
 
 ---
+
 ## Technical Skills
 
 **Languages**  
 Python · Java · SQL
 
-**Data & Infrastructure**  
-MySQL · MongoDB · Pandas · PySpark (learning)
+**Cloud & Data Platforms**  
+AWS (S3, Glue, Athena) · PostgreSQL · Supabase · MongoDB · Pandas · dbt (exposure)
 
-**Tools & Platforms**  
-Git · Streamlit · Vercel · Supabase (PostgreSQL)
+**Infrastructure & Tooling**  
+Terraform · Git · CI/CD (GitHub Actions)
+
+**Frontend / Apps**  
+Streamlit · Next.js (TypeScript)
 
 **Embedded Systems**  
 ESP32 · Sensor integration · Serial communication
 
-**Basic Familiarity**  
-C · C++
+**Familiarity**  
+C · C++ · Rust
+
+---
+
+## Concepts & Systems Experience
+
+- REST API design and service architecture  
+- Neural networks integrated into application workflows  
+- Data validation, data contracts, and CI-based quality enforcement  
+- Infrastructure-as-Code and reproducible environments (Terraform)  
+- Distributed data processing and pipeline design  
+- Real-time system interaction and hardware control  
 
 ---
 
 ## Selected Projects
 
+### Data Quality CI Framework *(WIP)*  
+Framework for enforcing data validation in CI pipelines before deployment.  
+Targets schema issues, data drift, and contract violations early in the lifecycle.
+
 ### Smart Commit CLI  
-A command-line tool that summarizes `git diff`s using the Gemini API and generates commit messages. Designed for flexible intergration with developer workflows.
+CLI tool that summarises `git diff`s using LLMs to generate structured commit messages.  
+Designed for real-world developer workflows.
 
-### Fencing Video Analysis Web App  
-Streamlit-based visualizer for pose tracking in fencing videos. Uses keypoint detection to plot joint trajectories over time — useful for performance analysis and motion segmentation.
+### Fencing Analysis Platform  
+Streamlit app for analysing fencing footage using pose estimation.  
+Tracks joint movement and trajectories for performance insights.
 
-### Foam Booth Data Analysis  
-A data processing and analysis pipeline focused on customer purchase trends. Utilizes large language models (LLMs) to automatically tag and categorize transactional data, enhancing insights extraction. Built using Pandas and Gemini to identify sales patterns and customer segments.
+### Foam Ordering / Analysis Pipeline  
+Data pipeline analysing historical sales to support forecasting decisions.  
+Includes LLM-assisted categorisation and feature extraction.
 
----
-
-## My Favourite Coursework
-
-### Big Data  
-Working with distributed datasets using MongoDB, implementing MapReduce workflows, and optimizing queries with indexing and multi-parameter sorting for efficient data retrieval and processing.
-
-### AI for Text and Vision  
-Implementing contrastive loss in Siamese networks and exploring Transformer models for classification tasks using PyTorch.  
-The course also includes designing and training custom convolutional neural networks (CNNs) for image classification (recognizing rock, paper, or scissors) and applying text preprocessing techniques such as TF-IDF for natural language tasks.
-
-### Software Engineering (PACE Project)  
-Collaborating on a web-based internal search platform using React, Supabase, and Vercel. The project aims to reduce the volume of unnecessary email requests to MQI staff by creating a user-friendly, Google-like interface that encourages self-service.  
-Key features include Google Gemini-generated summaries of internal Notion pages and a data analytics dashboard highlighting common queries, enabling staff to proactively address documentation gaps.  
-The system is designed and deployed entirely within free-tier constraints, emphasizing cost-effective architecture, scalable design, and real-world agile development practices.
+### Rust-Based Control System 
+Designed and implemented a Rust system combining an API layer, machine learning components, and hardware control.  
+Focused on reliable device communication and managing real-time interactions under system constraints.  
+> Details limited due to NDA
 
 ---
 
-## My Contact
+## Experience Highlights
 
-- GitHub: [SilverPeak2299](https://github.com/SilverPeak2299)
-- Email: [dannydickerson03@gmail.com](dannydickerson03@gmail.com)
+- Building AWS-based data validation tooling (Glue, Athena, S3)  
+- Designing Terraform-managed environments to test pipeline behaviour safely  
+- Exploring how governance and policy controls can be embedded into data workflows  
+
 ---
 
-> I use GitHub not just to publish polished work, but to learn in public — whether it's experimenting with hardware, deploying apps, or analyzing data flows. I'm particularly excited about building tools that make complex systems usable, insightful, and efficient.
+## Contact
+
+- GitHub: [SilverPeak2299](https://github.com/SilverPeak2299)  
+- Email: dannydickerson03@gmail.com  
+
+---
